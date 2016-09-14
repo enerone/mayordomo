@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/mayordomo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/mayordomo","hostpath":"/home/enerone/mayordomo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/enerone/mayordomo","disabled":false,"__vagrantfile":true}}}
